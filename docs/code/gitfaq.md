@@ -10,4 +10,11 @@ git add .
 
 git commit -m "修改html"
 
-git push origin main  
+git push origin main 
+
+
+## stata
+
+reghdfe y x ...
+
+

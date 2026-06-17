@@ -31,6 +31,27 @@ Listening at [http://localhost:3000](http://localhost:3000)
 
 可以预览网站
 
-## stata
+## git的一些命令解释
 
-reghdfe y x ...
+```bash
+# 查看本地改动
+git status
+
+# 查看具体改了什么
+git diff
+
+# 查看提交历史
+git log --oneline --graph -10
+
+# 拉取远程最新代码
+git pull origin main
+
+# 推送本地提交到远程
+git push origin main
+
+# 查看本地是否有未推送的提交
+git log origin/main..HEAD --oneline
+
+# 查看远程是否有本地未拉取的提交
+git fetch origin && git log HEAD..origin/main --oneline
+```

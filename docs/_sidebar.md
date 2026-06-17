@@ -5,3 +5,5 @@
 * 代码工具
   * [Git 常用命令](code/gitfaq.md)
   * [Python 技巧](code/pythonfaq.md)
+* 数据集
+  * [常用数据集](datasets.md)

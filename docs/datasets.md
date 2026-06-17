@@ -17,6 +17,7 @@
 |---|---|---|---|
 | **Titanic** | 泰坦尼克号乘客数据，包含舱位等级、性别、年龄、票价、登船港口、是否生还等变量。 | 268 KB | [下载](https://zhuxi97.github.io/Docs/data/titanic3.dta) |
 | **MRW 1992** | Mankiw、Romer 与 Weil（1992）跨国经济增长经典数据集，包含各国人均 GDP、投资率、人口增长率、教育水平等变量。 | 12 KB | [下载](https://zhuxi97.github.io/Docs/data/MRW1992.dta) |
+| **CK 1994** | Card 与 Krueger（1994）最低工资与就业经典研究数据集，包含新泽西州和宾夕法尼亚州快餐店在最低工资调整前后的就业、工资、价格等信息。 | 100 KB | [下载](https://zhuxi97.github.io/Docs/data/CK1994.dta) |
 
 ## 如何新增数据集
 
